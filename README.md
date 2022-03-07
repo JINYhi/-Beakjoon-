@@ -18,18 +18,16 @@ X를 10진수로 바꿔서 출력하는 프로그램을 작성하시오.
 
 #### 코드
 
-
+'''
 #include <stdio.h>
 int main()
 {
     int a;
     scanf("%i", &a);
-
     printf("%d", a);
-
-
     return 0;
 }
+'''
 
 
 #### 결과
