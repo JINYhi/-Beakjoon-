@@ -17,7 +17,7 @@ X를 10진수로 바꿔서 출력하는 프로그램을 작성하시오.
 
 
 #### 코드
-'''
+
 
 #include <stdio.h>
 int main()
@@ -30,7 +30,7 @@ int main()
 
     return 0;
 }
-'''
+
 
 #### 결과
 ![image](https://user-images.githubusercontent.com/96537605/157071361-8d7674de-9109-4617-909d-df731cdb0dcb.png)
